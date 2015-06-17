@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "name": "BoilerplateHapi",
+  "version": "0.0.0",
+  "description": "Boilerplate HapiJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "handlebars": "^3.0.0",
+    "hapi": "^8.2.0"
+  },
+  "engines": {
+    "node": "0.12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-sass": "^2.0.1",
+    "gulp-watch": "^4.2.4"
+  }
+}
